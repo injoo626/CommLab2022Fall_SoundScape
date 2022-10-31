@@ -5,7 +5,7 @@ This project captures the process of a character going through a loss of her bro
 ## Process ##
 ### Phase 1: Sound Collection ###
 We used three types of sounds in this project; we downloaded some sound effects from Internet sources, we used AI voice generator, and we recorded the voice of the main character with the audio equipment. As I had previous experience with the Arts booking system, I was in charge of renting the equipment and explaining how to use the equipment to other team members. 
-![injoo1](images/documentation1.JPG| width = 100)
+<img src="images/documentation1" width="100">
 
 
 ### Phase 2: Sound Design ### 
