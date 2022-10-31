@@ -4,9 +4,9 @@ Have you ever lost someone close? This project captures the emotions--depression
 
 ## Process ##
 ### Phase 1: Sound Collection ###
-We used three types of sounds in this project; we downloaded some sound effects from Internet sources, we used AI voice generator, and we recorded the voice of the main character with the audio equipment. As I had a previous experience with the Arts booking system, I was in charge of renting the equipment and explaining how to use the equipment to other team members. 
+We used three types of sounds in this project; we downloaded some sound effects from Internet sources, we used AI voice generator, and we recorded the voice of the main character with the audio equipment. As I had a previous experience with the Arts booking system, I was in charge of renting the equipment and explaining how to use the equipment to other team members. Below are the photos I shared with my team members. (Feel free to share them with future students of Communications Lab if needed!)
 
-<img src="images/documentation1.JPG" width="200"/> <img src="images/documentation2.JPG" width="200"/> 
+<img src="images/documentation1.JPG" width="200"/> <img src="images/documentation2.JPG" width="300"/> 
 
 ### Phase 2: Sound Design ### 
 After receiving audio files from team members, I used Davinci Resolve to work on the sound design. I used Davinci Resolve instead of Audacity because I already had some experience with the program. To create a continuity in the audio space, I picked up ambient noise from the sounds recorded by Insiya. The ambient noise was put in places that lacked background noise such as Alexa's voice. 
