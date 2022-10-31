@@ -1,6 +1,8 @@
 # InternalRecording_AlexaN1978384.wav #
 ## Project Description ##
-Have you ever lost someone close? This project captures the emotions--**depression, loneliness, denial, and many more**--of dealing with a loss. 
+Have you ever lost someone close? 
+
+This project captures the emotions--**depression, loneliness, denial, and many more**--of dealing with a loss. 
 
 The character goes through a loss of her brother Bilal. It includes an element of surprise as it does not tell the audience any context in the beginning. As a user listens to the internal recordings of Alexa on different dates, however, he or she slowly understands what the chracter is going through and finally sees the clear picture at the end after listening to the lawyer's voicemail. 
 
