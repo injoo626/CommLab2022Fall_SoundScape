@@ -1,12 +1,15 @@
+/* resetting internal padding */
 *{
     padding: 0;
     margin: 0;
 }
 
+/* disabling horizontal scroll */
 body{
     overflow-x: hidden;
 }
 
+/* fixed background */
 .background{
     position: fixed;
     width: 100%;
@@ -14,6 +17,7 @@ body{
     
 }
 
+/* fixed title */
 .title{
     position: fixed;
     top: 300px;
@@ -24,6 +28,7 @@ body{
     color: white;
 }
 
+/* fixed instructions */
 .instruction{
     position: fixed;
     top: 450px;
@@ -34,6 +39,7 @@ body{
     color: white;
 }
 
+/* scene title style */
 .sceneTitle{
     position: relative;
     font-family: 'Trebuchet MS', sans-serif;
@@ -42,50 +48,60 @@ body{
     color: white;
 }
 
+/* scene1 title position */
 .s1{
     top: 600px;
     left: 1000px;
 }
 
+/* scene2 title position */
 .s2{
     top: 1350px;
     left: 1000px;
 }
 
+/* scene3 title position */
 .s3{
     top: 2100px;
     left: 1000px;
 }
 
+/* scene4 title position */
 .s4{
     top: 2850px;
     left: 1000px;
 }
 
+
+/* first alexa position */
 .alexa1{
     position: absolute;
     top: 200px;
     left: 650px;
 }
 
+/* second alexa position */
 .alexa2{
     position: absolute;
     top: 1000px;
     left: 650px;
 }
 
+/* third alexa position */
 .alexa3{
     position: absolute;
     top: 1800px;
     left: 650px;
 }
 
+/* fourth alexa position */
 .alexa4{
     position: absolute;
     top: 2600px;
     left: 650px;
 }
 
+/* bottom space */
 .bottom{
     position: absolute;
     top: 3000px;
